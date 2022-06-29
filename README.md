@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nupur
 #### I am an engineer who loves working with data :)
-I'm Nupur from India, and I work with data. I really enjoy analyzing data, developing and optimizing machine learning models as well as deploying the models. You can check my profile at:https://nupurgopali.tech/
+I'm Nupur from India, and I work with data. I really enjoy analyzing data, developing and optimizing machine learning models as well as deploying the models.
 
 Skills: Java/Python/Data Analysis/Data Science/Cloud 
 
